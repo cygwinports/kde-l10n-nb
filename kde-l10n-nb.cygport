@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-nb"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Norwegian Bokmal translation files"
 DESCRIPTION="KDE Norwegian Bokmal translation files"
